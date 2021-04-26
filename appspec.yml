@@ -6,7 +6,7 @@ files:
   - source: target/Lubrigo-0.0.1-SNAPSHOT.jar
   # source: ./Lubrigo-0.0.1-SNAPSHOT.jar
     # destination: /home/ubuntu/myapp
-    destination: /tmp
+    destination: /tmp2
 
     # hooks:
     #   ApplicationStart:
